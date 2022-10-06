@@ -1,0 +1,10 @@
+.headercss {
+    background-color: rgb(245, 244, 244);
+    border-radius: 20px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    color: #6b4ea1;
+}
